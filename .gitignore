@@ -1,0 +1,10 @@
+# Environment files
+.env
+.env.*
+env/
+
+# Jupyter Notebook checkpoints (matches in root and all subdirectories)
+.ipynb_checkpoints/
+
+# Data files
+*.csv
